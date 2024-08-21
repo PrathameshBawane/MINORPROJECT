@@ -1,5 +1,5 @@
 # MINORPROJECT
-Let's walk through the process step by step and clarify the goal, methods, and current implementation in your project titled **"Predicting Software Bugs Using Machine Learning Techniques."**
+Let's walk through the process step by step and clarify the goal, methods, and current implementation in our project titled **"Predicting Software Bugs Using Machine Learning Techniques."**
 
 ### Project Goal
 The primary objective of your project is to **predict the likelihood or severity of software bugs** using various machine learning models. By training models on a dataset that includes information about past software bugs, we aim to make predictions about new or unseen bugs based on their descriptions and related features.
